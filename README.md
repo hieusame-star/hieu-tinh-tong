@@ -1,1 +1,0 @@
-# hieu-tinh-tong
