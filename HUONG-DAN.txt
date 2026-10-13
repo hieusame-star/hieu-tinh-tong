@@ -1,0 +1,9 @@
+HIỆU TÍNH TỔNG — WEB APP
+
+1) Tải thư mục này lên một dịch vụ hosting HTTPS (ví dụ GitHub Pages hoặc Netlify). Không mở file index.html bằng đường dẫn file:// nếu muốn cài như Web App.
+2) Trên iPhone, mở URL HTTPS đã được host bằng Safari.
+3) Bấm nút Chia sẻ (ô vuông có mũi tên lên).
+4) Chọn “Thêm vào MH chính” / “Add to Home Screen”.
+5) Đặt tên “Tính Tổng” rồi bấm Thêm. Mở bằng biểu tượng vừa thêm.
+
+Lưu ý: đây là PWA/Web App, KHÔNG phải file IPA. Cần URL HTTPS để cài; một số chức năng offline sẽ hoạt động sau khi trang tải thành công lần đầu. Google Fonts cần internet để tải font, nhưng app có font dự phòng.
